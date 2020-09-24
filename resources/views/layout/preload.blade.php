@@ -4,7 +4,7 @@
         <div class="preloader-inner position-relative">
             <div class="preloader-circle"></div>
             <div class="preloader-img pere-text">
-                <img src="assets/img/logo/loader.png" alt="">
+                <img src="{{asset('assets/img/logo/loader.png')}}" alt="">
             </div>
         </div>
     </div>
