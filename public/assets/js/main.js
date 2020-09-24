@@ -58,8 +58,8 @@
         dots: false,
         fade: true,
         arrows: true, 
-        prevArrow: '<button type="button" class="slick-prev"><i class="ti-angle-left"></i></button>',
-        nextArrow: '<button type="button" class="slick-next"><i class="ti-angle-right"></i></button>',
+        prevArrow: '<button type="button" class="slick-prev"><i class="fa fa-arrow-left"></i></button>',
+        nextArrow: '<button type="button" class="slick-next"><i class="fa fa-arrow-right"></i></button>',
         responsive: [{
             breakpoint: 1024,
             settings: {
@@ -166,15 +166,6 @@
 
 /* 10. WOW active */
     new WOW().init();
-
-
-    
-// 11. ---- Mailchimp js --------//  
-    function mailChimp() {
-      $('#mc_embed_signup').find('form').ajaxChimp();
-    }
-    mailChimp();
-
 
 
 // 12 Pop Up Img
