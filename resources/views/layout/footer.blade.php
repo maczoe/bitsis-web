@@ -9,7 +9,7 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo">
-                                <a href="{{ route('index') }}"><img src="{{asset('assets/img/logo/logo2_footer.png')}}" alt="logo-big"></a>
+                                <a href="{{ route('index') }}"><img src="{{asset('public/assets/img/logo/logo2_footer.png')}}" alt="logo-big"></a>
                                 </div>
                             </div>
                         </div>

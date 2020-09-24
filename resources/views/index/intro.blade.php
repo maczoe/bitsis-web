@@ -1,5 +1,5 @@
 <!-- slider Area Start-->
-<div class="slider-area  slider-height" data-background="{{asset('assets/img/hero/h1_hero.jpg')}}">
+<div class="slider-area  slider-height" data-background="{{asset('public/assets/img/hero/h1_hero.jpg')}}">
     <div class="slider-active">
         @foreach($slides as $slide)
         <!-- Single Slider -->
