@@ -1,19 +1,9 @@
 @extends('layout/main')
 
 @section('content')
-<!-- Hero Area Start -->
-<div class="hero-area hero-height2 d-flex align-items-center" data-background="assets/img/hero/h2_hero.jpg">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="hero-cap text-center pt-50">
-                    <h2>Contácto</h2>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Hero Area End -->
+
+@include('layout/hero', ['title_hero' => 'Contáctanos'])
+
      <!-- ================ contact section start ================= -->
      <section class="contact-section">
         <div class="container">

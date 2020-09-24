@@ -34,9 +34,9 @@
                                 <ul>
                                     <li><a href="{{ route('contact')}}">Contáctanos</a></li>
                                     <li><a href="{{ route('about')}}">Acerca</a></li>
-                                    <li><a href="{{ route('index')}}">Noticias (blog)</a></li>
-                                    <li><a href="{{ route('index')}}">Políticas de privacidad</a></li>
-                                    <li><a href="{{ route('index')}}">Términos y condiciones</a></li>
+                                    <li><a href="#">Noticias (blog)</a></li>
+                                    <li><a href="#">Políticas de privacidad</a></li>
+                                    <li><a href="#">Términos y condiciones</a></li>
                                 </ul>
                             </div>
                         </div>
