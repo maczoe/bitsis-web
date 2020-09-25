@@ -9,7 +9,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/mas_screen.png')}}" alt="mas-screen">
+                        <img class="img-fluid" src="{{asset('assets/img/products/mas_screen.png')}}" alt="mas-screen">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Sistema de Facturación</h5>
