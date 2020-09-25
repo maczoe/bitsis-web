@@ -24,7 +24,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/mas_screen.png')}}" alt="mas-screen">
+                        <img class="img-fluid" src="{{asset('assets/img/products/mas_screen.png')}}" alt="mas-screen">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Sistema de Facturación</h5>
@@ -35,7 +35,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/odoo_pos.png')}}" alt="odoo-pos">
+                        <img class="img-fluid" src="{{asset('assets/img/products/odoo_pos.png')}}" alt="odoo-pos">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Odoo ERP</h5>
@@ -46,7 +46,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/it_consulting.jpg')}}" alt="it-consulting">
+                        <img class="img-fluid" src="{{asset('assets/img/products/it_consulting.jpg')}}" alt="it-consulting">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Desarrollo de software</h5>

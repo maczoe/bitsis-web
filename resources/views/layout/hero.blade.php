@@ -1,5 +1,5 @@
 <!-- Hero Area Start -->
-<div class="hero-area hero-height2 d-flex align-items-center" data-background="{{asset('public/assets/img/hero/h2_hero.jpg')}}">
+<div class="hero-area hero-height2 d-flex align-items-center" data-background="{{asset('assets/img/hero/h2_hero.jpg')}}">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">

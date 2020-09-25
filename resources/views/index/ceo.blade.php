@@ -9,13 +9,13 @@
                          <!-- Testimonial Content -->
                         <div class="testimonial-caption ">
                             <div class="testimonial-top-cap">
-                                <img src="{{ asset('public/assets/img/icon/testimonial.png')}}" alt="testimonio-icon">
+                                <img src="{{ asset('assets/img/icon/testimonial.png')}}" alt="testimonio-icon">
                                 <p>Implementar tecnologías de información en los negocios, ha sido uno de los más grandes avances de este siglo. La empresa debe reinventarse o morir en el intento de competir en una mercado global.</p>
                             </div>
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                 <div class="founder-img">
-                                    <img src="{{ asset('public/assets/img/testmonial/Homepage_testi.png')}}" alt="testimonio">
+                                    <img src="{{ asset('assets/img/testmonial/Homepage_testi.png')}}" alt="testimonio">
                                 </div>
                                <div class="founder-text">
                                     <span>Marco Linares</span>

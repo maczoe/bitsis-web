@@ -20,7 +20,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/odoo_pos.png')}}" alt="odoo-pos">
+                        <img class="img-fluid" src="{{asset('assets/img/products/odoo_pos.png')}}" alt="odoo-pos">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Odoo ERP</h5>
@@ -31,7 +31,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/it_consulting.jpg')}}" alt="it-consulting">
+                        <img class="img-fluid" src="{{asset('assets/img/products/it_consulting.jpg')}}" alt="it-consulting">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Desarrollo de software</h5>
@@ -44,7 +44,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/web_design.png')}}" alt="web-design">
+                        <img class="img-fluid" src="{{asset('assets/img/products/web_design.png')}}" alt="web-design">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Diseño Web</h5>
@@ -55,7 +55,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/consultoria.jpg')}}" alt="consultoria">
+                        <img class="img-fluid" src="{{asset('assets/img/products/consultoria.jpg')}}" alt="consultoria">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Consultorías de TI</h5>
@@ -66,7 +66,7 @@
             <div class=" col-lg-4 col-md-6 col-sm-6">
                 <div class="single-services text-center mb-30">
                     <div class="services-ion">
-                        <img class="img-fluid" src="{{asset('public/assets/img/products/fel.jpg')}}" alt="log-fel">
+                        <img class="img-fluid" src="{{asset('assets/img/products/fel.jpg')}}" alt="log-fel">
                     </div>
                     <div class="services-cap mt-3">
                         <h5>Integración de sistemas FEL</h5>
